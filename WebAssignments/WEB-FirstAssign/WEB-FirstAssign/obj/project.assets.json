@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidbankys/Desktop/WebAssignments/WEB-FirstAssign/WEB-FirstAssign/WEB-FirstAssign.csproj",
+      "projectUniqueName": "/Users/davidbankys/Documents/GitHub/Web1001-Assignment/WebAssignments/WEB-FirstAssign/WEB-FirstAssign/WEB-FirstAssign.csproj",
       "projectName": "WEB-FirstAssign",
-      "projectPath": "/Users/davidbankys/Desktop/WebAssignments/WEB-FirstAssign/WEB-FirstAssign/WEB-FirstAssign.csproj",
+      "projectPath": "/Users/davidbankys/Documents/GitHub/Web1001-Assignment/WebAssignments/WEB-FirstAssign/WEB-FirstAssign/WEB-FirstAssign.csproj",
       "packagesPath": "/Users/davidbankys/.nuget/packages/",
-      "outputPath": "/Users/davidbankys/Desktop/WebAssignments/WEB-FirstAssign/WEB-FirstAssign/obj/",
+      "outputPath": "/Users/davidbankys/Documents/GitHub/Web1001-Assignment/WebAssignments/WEB-FirstAssign/WEB-FirstAssign/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davidbankys/.nuget/NuGet/NuGet.Config"
